@@ -1,0 +1,91 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.tipo_logo{
+    font-family: 'Oswald';
+    font-weight: bold;
+    font-size: 40px;
+}
+/* Fin Estilos del NAVBAR */
+
+.color{
+    background-color: black;
+}
+.navbar-brand img{
+    height: 60px;
+}
+
+.carousel-item{
+    max-height: 100vh;
+}
+
+#Quienes-somos h2{
+    font-size: 25pt;
+}
+
+#Destacados h2{
+    font-size: 25pt;
+}
+/* Estilos mi experiencia */
+#Experiencia div h1 {
+    font-family: "Oswald";
+    font-size: 52pt;
+    font-weight: bold;
+}
+
+#Experiencia div hr {
+    width: 115px;
+    border: 1px solid;
+}
+
+/* Estilos repertorio */
+
+#Trabajos{
+    background-color:#660066 ;
+}
+
+#Trabajos hr{
+    width: 115px;
+    background-color: white;
+    height: 2pt;
+}
+hr{
+    background-color: #40CFFF;
+    height: 3pt; 
+}
+.textoi{
+    width: 290pt;
+    background-color: #40CFFF;
+    height: 40pt;  
+}
+#Trabajos h1{
+    font-size: 70px;
+}
+#Trabajos div h5 {
+    font-weight: bold;
+
+}
+
+/* Estilo contacto */
+#Contacto h1{
+    font-family: "Oswald";
+    font-size: 52pt;
+    font-weight: bold;
+    
+}
+#Contacto hr {
+    width: 115px;
+    
+    height: 2pt;
+}
+
+
+.footer{
+    background-color: #61a3e1;
+
+}
+#footer h1 {
+    font-family: "Oswald";
+    font-weight: bold;
+}
